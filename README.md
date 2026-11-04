@@ -80,7 +80,9 @@ return 0;
 
 ```
 # OUTPUT
-<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/78719791-3276-407d-8536-4eb038b6738e" />
+
+<img width="1536" height="817" alt="image" src="https://github.com/user-attachments/assets/1be9652d-e371-4dd6-af83-3b8a9ef65dd3" />
+
 
 
 # RESULT
