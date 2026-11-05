@@ -81,7 +81,8 @@ return 0;
 ```
 # OUTPUT
 
-<img width="1536" height="817" alt="image" src="https://github.com/user-attachments/assets/1be9652d-e371-4dd6-af83-3b8a9ef65dd3" />
+<img width="1448" height="1086" alt="screenshot_5678" src="https://github.com/user-attachments/assets/b56522e9-a263-43e3-a0a9-499ca4feb9f2" />
+
 
 
 
